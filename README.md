@@ -1,7 +1,6 @@
 # About Me
 
 <table align='right'>
-<tr><td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LCMs-YoRHa" width="400" /></td></tr>
 <tr><td><img src="https://github-readme-stats-seven-henna-98.vercel.app/api?username=LCMs-YoRHa&include_all_commits=true&hide_border=true&show_icons=true&rank_icon=github&line_height=35" width="400"></td></tr>
 </table>
 
